@@ -1,0 +1,5 @@
+openai_api_key: ""
+embedding_model: "openai"
+chunk_size: 750
+chunk_overlap: 100
+
